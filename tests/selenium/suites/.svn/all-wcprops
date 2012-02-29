@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/suites
+END
+AddContentToNewPageTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/suites/AddContentToNewPageTestCase.php
+END
+AddNewPageTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/suites/AddNewPageTestCase.php
+END
+UserPreferencesTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/suites/UserPreferencesTestCase.php
+END
+PageSearchTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/suites/PageSearchTestCase.php
+END
+MovePageTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/suites/MovePageTestCase.php
+END
+MediaWikiEditorConfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/suites/MediaWikiEditorConfig.php
+END
+MyWatchListTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/suites/MyWatchListTestCase.php
+END
+MyContributionsTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/suites/MyContributionsTestCase.php
+END
+DeletePageAdminTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/suites/DeletePageAdminTestCase.php
+END
+SimpleSeleniumTestSuite.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/suites/SimpleSeleniumTestSuite.php
+END
+EmailPasswordTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/suites/EmailPasswordTestCase.php
+END
+MediawikiCoreSmokeTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/suites/MediawikiCoreSmokeTestCase.php
+END
+PageDeleteTestSuite.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/suites/PageDeleteTestSuite.php
+END
+PreviewPageTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/suites/PreviewPageTestCase.php
+END
+CreateAccountTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/suites/CreateAccountTestCase.php
+END
+MediaWikiExtraTestSuite.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/suites/MediaWikiExtraTestSuite.php
+END
+SimpleSeleniumConfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/suites/SimpleSeleniumConfig.php
+END
+MediaWikiEditorTestSuite.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/suites/MediaWikiEditorTestSuite.php
+END
+MediawikiCoreSmokeTestSuite.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/suites/MediawikiCoreSmokeTestSuite.php
+END
+SavePageTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/suites/SavePageTestCase.php
+END
+SimpleSeleniumTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/suites/SimpleSeleniumTestCase.php
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/103900/branches/REL1_18/phase3/tests/phpunit/includes/media
+END
+FormatMetadataTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/mediawiki/!svn/ver/96908/branches/REL1_18/phase3/tests/phpunit/includes/media/FormatMetadataTest.php
+END
+ExifTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/includes/media/ExifTest.php
+END
+SVGMetadataExtractorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/mediawiki/!svn/ver/96908/branches/REL1_18/phase3/tests/phpunit/includes/media/SVGMetadataExtractorTest.php
+END
+IPTCTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/includes/media/IPTCTest.php
+END
+GIFMetadataExtractorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/includes/media/GIFMetadataExtractorTest.php
+END
+XMPTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/includes/media/XMPTest.php
+END
+GIFTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/includes/media/GIFTest.php
+END
+ExifRotationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/mediawiki/!svn/ver/103900/branches/REL1_18/phase3/tests/phpunit/includes/media/ExifRotationTest.php
+END
+BitmapMetadataHandlerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/includes/media/BitmapMetadataHandlerTest.php
+END
+BitmapScalingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/mediawiki/!svn/ver/96849/branches/REL1_18/phase3/tests/phpunit/includes/media/BitmapScalingTest.php
+END
+PNGMetadataExtractorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/includes/media/PNGMetadataExtractorTest.php
+END
+JpegMetadataExtractorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/includes/media/JpegMetadataExtractorTest.php
+END
+PNGTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/includes/media/PNGTest.php
+END
+JpegTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mediawiki/!svn/ver/96908/branches/REL1_18/phase3/tests/phpunit/includes/media/JpegTest.php
+END
+TiffTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/includes/media/TiffTest.php
+END
+ExifBitmapTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mediawiki/!svn/ver/102531/branches/REL1_18/phase3/tests/phpunit/includes/media/ExifBitmapTest.php
+END

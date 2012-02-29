@@ -1,0 +1,12 @@
+K 13
+svn:mergeinfo
+V 327
+/branches/REL1_15/phase3/tests/phpunit/includes/media/greyscale-png.png:51646
+/branches/REL1_17/phase3/tests/phpunit/includes/media/greyscale-png.png:81445,81448
+/branches/new-installer/phase3/tests/phpunit/includes/media/greyscale-png.png:43664-66004
+/branches/sqlite/tests/phpunit/includes/media/greyscale-png.png:58211-58321
+K 13
+svn:mime-type
+V 9
+image/png
+END

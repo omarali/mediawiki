@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mediawiki/!svn/ver/94644/branches/REL1_18/phase3/tests/qunit/data
+END
+defineTestCallback.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/qunit/data/defineTestCallback.js
+END
+testrunner.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/94644/branches/REL1_18/phase3/tests/qunit/data/testrunner.js
+END
+testwarm.inject.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/qunit/data/testwarm.inject.js
+END

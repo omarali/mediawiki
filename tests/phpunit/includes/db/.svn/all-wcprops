@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/96932/branches/REL1_18/phase3/tests/phpunit/includes/db
+END
+DatabaseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/96932/branches/REL1_18/phase3/tests/phpunit/includes/db/DatabaseTest.php
+END
+DatabaseSqliteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/db/DatabaseSqliteTest.php
+END

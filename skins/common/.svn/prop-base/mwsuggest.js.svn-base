@@ -1,0 +1,13 @@
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mergeinfo
+V 297
+/branches/REL1_15/phase3/skins/common/mwsuggest.js:51646
+/branches/REL1_17/phase3/skins/common/mwsuggest.js:81445,81448
+/branches/new-installer/phase3/skins/common/mwsuggest.js:43664-66004
+/branches/sqlite/skins/common/mwsuggest.js:58211-58321
+/trunk/phase3/skins/common/mwsuggest.js:100348,100640
+END

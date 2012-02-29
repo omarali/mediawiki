@@ -1,0 +1,14 @@
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mergeinfo
+V 952
+/branches/REL1_15/phase3/tests/qunit/suites/resources/mediawiki/mediawiki.util.js:51646
+/branches/REL1_17/phase3/tests/qunit/suites/resources/mediawiki/mediawiki.util.js:81445,81448
+/branches/new-installer/phase3/tests/qunit/suites/resources/mediawiki/mediawiki.util.js:43664-66004
+/branches/sqlite/tests/qunit/suites/resources/mediawiki/mediawiki.util.js:58211-58321
+/trunk/phase3/tests/qunit/suites/resources/mediawiki/mediawiki.util.js:92580,92634,92713,92762,92765,92791,92854,92884,92886-92887,92894,92898,92907,92932,92958,93141,93149,93151,93233-93234,93258,93266,93303,93516-93518,93520,93818-93822,93847,93858,93891,93935-93936,94058,94062,94068,94107,94155,94235,94277,94346,94372,94422,94425,94444,94448,94456,94498,94517,94601,94630,94728,94738,94825,94862,94995-94997,95023,95042,95072-95073,95155,95327,95332,95410,95422,95426,95442,95468,95601,95812
+/trunk/phase3/tests/qunit/suites/resources/mediawiki/mediawiki.util.test.js:95332,95451
+END

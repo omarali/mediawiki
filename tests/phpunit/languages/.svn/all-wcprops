@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/99291/branches/REL1_18/phase3/tests/phpunit/languages
+END
+LanguageTrTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/99291/branches/REL1_18/phase3/tests/phpunit/languages/LanguageTrTest.php
+END
+LanguageBe_taraskTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/languages/LanguageBe_taraskTest.php
+END
+LanguageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/languages/LanguageTest.php
+END

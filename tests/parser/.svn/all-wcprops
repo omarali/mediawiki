@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/mediawiki/!svn/ver/107899/branches/REL1_18/phase3/tests/parser
+END
+extraParserTests.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/parser/extraParserTests.txt
+END
+parserTestsParserHook.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/parser/parserTestsParserHook.php
+END
+parserTest.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/107899/branches/REL1_18/phase3/tests/parser/parserTest.inc
+END
+parserTestsStaticParserHook.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/parser/parserTestsStaticParserHook.php
+END
+parserTests.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/102958/branches/REL1_18/phase3/tests/parser/parserTests.txt
+END

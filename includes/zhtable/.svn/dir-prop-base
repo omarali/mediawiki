@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 39
+*.gz
+*.tgz
+Unihan.zip
+ZhConversion.php
+
+END

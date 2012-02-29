@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/97283/branches/REL1_18/phase3/includes/revisiondelete
+END
+RevisionDeleteUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/revisiondelete/RevisionDeleteUser.php
+END
+RevisionDelete.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/revisiondelete/RevisionDelete.php
+END
+RevisionDeleter.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/revisiondelete/RevisionDeleter.php
+END
+RevisionDeleteAbstracts.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/mediawiki/!svn/ver/97283/branches/REL1_18/phase3/includes/revisiondelete/RevisionDeleteAbstracts.php
+END

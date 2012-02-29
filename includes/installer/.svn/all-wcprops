@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mediawiki/!svn/ver/112505/branches/REL1_18/phase3/includes/installer
+END
+DatabaseUpdater.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/104179/branches/REL1_18/phase3/includes/installer/DatabaseUpdater.php
+END
+OracleUpdater.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/106807/branches/REL1_18/phase3/includes/installer/OracleUpdater.php
+END
+MysqlUpdater.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/104179/branches/REL1_18/phase3/includes/installer/MysqlUpdater.php
+END
+PostgresUpdater.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/105349/branches/REL1_18/phase3/includes/installer/PostgresUpdater.php
+END
+WebInstaller.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/102514/branches/REL1_18/phase3/includes/installer/WebInstaller.php
+END
+Installer.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mediawiki/!svn/ver/107910/branches/REL1_18/phase3/includes/installer/Installer.php
+END
+PhpBugTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/installer/PhpBugTests.php
+END
+Installer.i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mediawiki/!svn/ver/102776/branches/REL1_18/phase3/includes/installer/Installer.i18n.php
+END
+Ibm_db2Installer.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/installer/Ibm_db2Installer.php
+END
+WebInstallerOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/installer/WebInstallerOutput.php
+END
+SqliteInstaller.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/installer/SqliteInstaller.php
+END
+InstallDocFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/installer/InstallDocFormatter.php
+END
+LocalSettingsGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mediawiki/!svn/ver/96088/branches/REL1_18/phase3/includes/installer/LocalSettingsGenerator.php
+END
+DatabaseInstaller.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/95607/branches/REL1_18/phase3/includes/installer/DatabaseInstaller.php
+END
+OracleInstaller.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/112505/branches/REL1_18/phase3/includes/installer/OracleInstaller.php
+END
+MysqlInstaller.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mediawiki/!svn/ver/108045/branches/REL1_18/phase3/includes/installer/MysqlInstaller.php
+END
+Ibm_db2Updater.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/installer/Ibm_db2Updater.php
+END
+PostgresInstaller.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/installer/PostgresInstaller.php
+END
+CliInstaller.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/107910/branches/REL1_18/phase3/includes/installer/CliInstaller.php
+END
+SqliteUpdater.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/104179/branches/REL1_18/phase3/includes/installer/SqliteUpdater.php
+END
+WebInstallerPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/102539/branches/REL1_18/phase3/includes/installer/WebInstallerPage.php
+END

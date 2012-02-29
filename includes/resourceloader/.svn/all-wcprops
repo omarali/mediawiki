@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/102533/branches/REL1_18/phase3/includes/resourceloader
+END
+ResourceLoaderSiteModule.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/resourceloader/ResourceLoaderSiteModule.php
+END
+ResourceLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mediawiki/!svn/ver/102519/branches/REL1_18/phase3/includes/resourceloader/ResourceLoader.php
+END
+ResourceLoaderUserOptionsModule.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/mediawiki/!svn/ver/102533/branches/REL1_18/phase3/includes/resourceloader/ResourceLoaderUserOptionsModule.php
+END
+ResourceLoaderFilePageModule.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/resourceloader/ResourceLoaderFilePageModule.php
+END
+ResourceLoaderContext.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/mediawiki/!svn/ver/97673/branches/REL1_18/phase3/includes/resourceloader/ResourceLoaderContext.php
+END
+ResourceLoaderUserGroupsModule.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/mediawiki/!svn/ver/100750/branches/REL1_18/phase3/includes/resourceloader/ResourceLoaderUserGroupsModule.php
+END
+ResourceLoaderUserModule.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/resourceloader/ResourceLoaderUserModule.php
+END
+ResourceLoaderFileModule.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/mediawiki/!svn/ver/99996/branches/REL1_18/phase3/includes/resourceloader/ResourceLoaderFileModule.php
+END
+ResourceLoaderModule.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mediawiki/!svn/ver/97263/branches/REL1_18/phase3/includes/resourceloader/ResourceLoaderModule.php
+END
+ResourceLoaderNoscriptModule.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/resourceloader/ResourceLoaderNoscriptModule.php
+END
+ResourceLoaderStartUpModule.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/mediawiki/!svn/ver/97263/branches/REL1_18/phase3/includes/resourceloader/ResourceLoaderStartUpModule.php
+END
+ResourceLoaderUserTokensModule.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/resourceloader/ResourceLoaderUserTokensModule.php
+END
+ResourceLoaderWikiModule.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/mediawiki/!svn/ver/94446/branches/REL1_18/phase3/includes/resourceloader/ResourceLoaderWikiModule.php
+END

@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp
+END
+utf16BE.xmp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/utf16BE.xmp
+END
+utf32LE.xmp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/utf32LE.xmp
+END
+utf16LE.xmp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/utf16LE.xmp
+END
+3-invalid.xmp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/3-invalid.xmp
+END
+flash.xmp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/flash.xmp
+END
+flash.result.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/flash.result.php
+END
+1.xmp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/1.xmp
+END
+2.result.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/2.result.php
+END
+2.xmp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/2.xmp
+END
+3.xmp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/3.xmp
+END
+bag-for-seq.xmp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/bag-for-seq.xmp
+END
+bag-for-seq.result.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/bag-for-seq.result.php
+END
+4.result.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/4.result.php
+END
+4.xmp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/4.xmp
+END
+no-recognized-props.result.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/no-recognized-props.result.php
+END
+5.xmp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/5.xmp
+END
+6.result.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/6.result.php
+END
+6.xmp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/6.xmp
+END
+no-namespace.xmp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/no-namespace.xmp
+END
+7.xmp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/7.xmp
+END
+xmpExt2.xmp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/xmpExt2.xmp
+END
+utf32BE.result.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/utf32BE.result.php
+END
+utf16BE.result.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/utf16BE.result.php
+END
+utf32LE.result.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/utf32LE.result.php
+END
+xmpExt.result.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/xmpExt.result.php
+END
+xmpExt.xmp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/xmpExt.xmp
+END
+utf16LE.result.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/utf16LE.result.php
+END
+3-invalid.result.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/3-invalid.result.php
+END
+invalid-child-not-struct.xmp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/invalid-child-not-struct.xmp
+END
+invalid-child-not-struct.result.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/invalid-child-not-struct.result.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/README
+END
+1.result.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/1.result.php
+END
+3.result.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/3.result.php
+END
+no-recognized-props.xmp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/no-recognized-props.xmp
+END
+5.result.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/5.result.php
+END
+no-namespace.result.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/no-namespace.result.php
+END
+7.result.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/7.result.php
+END
+utf32BE.xmp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/102528/branches/REL1_18/phase3/tests/phpunit/data/xmp/utf32BE.xmp
+END

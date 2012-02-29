@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/104855/branches/REL1_18/phase3/tests/phpunit/includes
+END
+BlockTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/BlockTest.php
+END
+SiteConfigurationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/SiteConfigurationTest.php
+END
+XmlJsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/XmlJsTest.php
+END
+RevisionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/RevisionTest.php
+END
+ExtraParserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/ExtraParserTest.php
+END
+XmlTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/104855/branches/REL1_18/phase3/tests/phpunit/includes/XmlTest.php
+END
+TimeAdjustTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/TimeAdjustTest.php
+END
+LanguageConverterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/LanguageConverterTest.php
+END
+ImageFunctionsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/ImageFunctionsTest.php
+END
+ArticleTablesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mediawiki/!svn/ver/92512/branches/REL1_18/phase3/tests/phpunit/includes/ArticleTablesTest.php
+END
+UserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/92512/branches/REL1_18/phase3/tests/phpunit/includes/UserTest.php
+END
+FormOptionsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/FormOptionsTest.php
+END
+HttpTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/HttpTest.php
+END
+TitleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/100840/branches/REL1_18/phase3/tests/phpunit/includes/TitleTest.php
+END
+SampleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/SampleTest.php
+END
+FauxResponseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/FauxResponseTest.php
+END
+ArticleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mediawiki/!svn/ver/96512/branches/REL1_18/phase3/tests/phpunit/includes/ArticleTest.php
+END
+MessageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/MessageTest.php
+END
+FormOptionsInitializationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/FormOptionsInitializationTest.php
+END
+MWFunctionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/MWFunctionTest.php
+END
+TitlePermissionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/mediawiki/!svn/ver/92512/branches/REL1_18/phase3/tests/phpunit/includes/TitlePermissionTest.php
+END
+LocalFileTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/LocalFileTest.php
+END
+UserIsValidEmailAddrTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/UserIsValidEmailAddrTest.php
+END
+ExternalStoreTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/ExternalStoreTest.php
+END
+MWNamespaceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/95632/branches/REL1_18/phase3/tests/phpunit/includes/MWNamespaceTest.php
+END
+XmlSelectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/XmlSelectTest.php
+END
+HtmlTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/HtmlTest.php
+END
+LicensesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/LicensesTest.php
+END
+IPTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mediawiki/!svn/ver/102519/branches/REL1_18/phase3/tests/phpunit/includes/IPTest.php
+END
+ParserOptionsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/ParserOptionsTest.php
+END
+SanitizerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/SanitizerTest.php
+END
+SeleniumConfigurationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/SeleniumConfigurationTest.php
+END
+JsonTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/JsonTest.php
+END
+ZipDirectoryReaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/ZipDirectoryReaderTest.php
+END
+Providers.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/Providers.php
+END
+ResourceLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/ResourceLoaderTest.php
+END
+HooksTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/HooksTest.php
+END
+WebRequestTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/WebRequestTest.php
+END
+CdbTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/CdbTest.php
+END

@@ -1,0 +1,126 @@
+10
+
+dir
+112663
+http://svn.wikimedia.org/svnroot/mediawiki/branches/REL1_18/phase3/resources
+http://svn.wikimedia.org/svnroot/mediawiki
+
+
+
+2012-01-03T19:21:42.469422Z
+107924
+reedy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dd0e9695-b195-4be7-bd10-2dea1a65a6b6
+
+jquery
+dir
+
+mediawiki.action
+dir
+
+Resources.php
+file
+
+
+
+
+2012-02-29T01:22:58.820278Z
+f83d27eca32f9c577b13044ffb1b8eaa
+2012-01-03T17:34:23.324714Z
+107907
+reedy
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27350
+
+mediawiki.special
+dir
+
+mediawiki
+dir
+
+mediawiki.language
+dir
+
+jquery.tipsy
+dir
+
+jquery.ui
+dir
+
+mediawiki.libs
+dir
+
+jquery.effects
+dir
+
+startup.js
+file
+
+
+
+
+2012-02-29T01:22:58.820278Z
+d113ba0801ea40bd0444f23181935338
+2010-11-22T23:55:37.579496Z
+77122
+krinkle
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+906
+
+mediawiki.page
+dir
+

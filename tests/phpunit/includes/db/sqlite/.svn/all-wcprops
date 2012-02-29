@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/db/sqlite
+END
+tables-1.13.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/db/sqlite/tables-1.13.sql
+END
+tables-1.15.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/db/sqlite/tables-1.15.sql
+END
+tables-1.16.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/db/sqlite/tables-1.16.sql
+END
+tables-1.17.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/db/sqlite/tables-1.17.sql
+END

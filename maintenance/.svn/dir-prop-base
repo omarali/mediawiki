@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 60
+searchUpdate.pos
+searchUpdate.*.pos
+results
+.mweval_history
+
+END

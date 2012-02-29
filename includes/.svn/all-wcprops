@@ -1,0 +1,761 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mediawiki/!svn/ver/112505/branches/REL1_18/phase3/includes
+END
+WebStart.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/WebStart.php
+END
+Revision.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mediawiki/!svn/ver/95607/branches/REL1_18/phase3/includes/Revision.php
+END
+PageQueryPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/PageQueryPage.php
+END
+AutoLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/104487/branches/REL1_18/phase3/includes/AutoLoader.php
+END
+Xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/Xml.php
+END
+WikiMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mediawiki/!svn/ver/96485/branches/REL1_18/phase3/includes/WikiMap.php
+END
+BacklinkCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/BacklinkCache.php
+END
+ProxyTools.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/96485/branches/REL1_18/phase3/includes/ProxyTools.php
+END
+Wiki.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mediawiki/!svn/ver/107907/branches/REL1_18/phase3/includes/Wiki.php
+END
+LinkFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/LinkFilter.php
+END
+mime.types
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/mime.types
+END
+ChangesList.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/100750/branches/REL1_18/phase3/includes/ChangesList.php
+END
+ImageQueryPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/ImageQueryPage.php
+END
+Categoryfinder.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/Categoryfinder.php
+END
+SpecialPageFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/101203/branches/REL1_18/phase3/includes/SpecialPageFactory.php
+END
+PoolCounter.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/PoolCounter.php
+END
+CategoryPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/101203/branches/REL1_18/phase3/includes/CategoryPage.php
+END
+ProtectionForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/99989/branches/REL1_18/phase3/includes/ProtectionForm.php
+END
+MagicWord.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/MagicWord.php
+END
+Defines.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mediawiki/!svn/ver/99980/branches/REL1_18/phase3/includes/Defines.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mediawiki/!svn/ver/105009/branches/REL1_18/phase3/includes/User.php
+END
+FormOptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/FormOptions.php
+END
+AuthPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/96849/branches/REL1_18/phase3/includes/AuthPlugin.php
+END
+ExternalUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/ExternalUser.php
+END
+Title.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mediawiki/!svn/ver/105537/branches/REL1_18/phase3/includes/Title.php
+END
+Status.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/Status.php
+END
+SiteStats.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/SiteStats.php
+END
+PrefixSearch.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/PrefixSearch.php
+END
+Article.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mediawiki/!svn/ver/103215/branches/REL1_18/phase3/includes/Article.php
+END
+FeedUtils.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/FeedUtils.php
+END
+Collation.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/97673/branches/REL1_18/phase3/includes/Collation.php
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/Message.php
+END
+HttpFunctions.old.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/HttpFunctions.old.php
+END
+RecentChange.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/95607/branches/REL1_18/phase3/includes/RecentChange.php
+END
+FileDeleteForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/96475/branches/REL1_18/phase3/includes/FileDeleteForm.php
+END
+RawPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/RawPage.php
+END
+MimeMagic.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/MimeMagic.php
+END
+MWFunction.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/MWFunction.php
+END
+GlobalFunctions.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/103029/branches/REL1_18/phase3/includes/GlobalFunctions.php
+END
+SkinLegacy.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/100371/branches/REL1_18/phase3/includes/SkinLegacy.php
+END
+StreamFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/StreamFile.php
+END
+ConfEditor.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/95607/branches/REL1_18/phase3/includes/ConfEditor.php
+END
+Namespace.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/Namespace.php
+END
+OutputHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/OutputHandler.php
+END
+WatchedItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/WatchedItem.php
+END
+Fallback.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/Fallback.php
+END
+ExternalStore.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/ExternalStore.php
+END
+SeleniumWebSettings.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/SeleniumWebSettings.php
+END
+WikiFilePage.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/WikiFilePage.php
+END
+SkinTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/105706/branches/REL1_18/phase3/includes/SkinTemplate.php
+END
+WikiPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/108767/branches/REL1_18/phase3/includes/WikiPage.php
+END
+StubObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/StubObject.php
+END
+Licenses.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/Licenses.php
+END
+LocalisationCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/96849/branches/REL1_18/phase3/includes/LocalisationCache.php
+END
+ForkController.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/ForkController.php
+END
+DefaultSettings.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/108687/branches/REL1_18/phase3/includes/DefaultSettings.php
+END
+ExternalStoreDB.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/99989/branches/REL1_18/phase3/includes/ExternalStoreDB.php
+END
+tidy.conf
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/tidy.conf
+END
+HttpFunctions.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/97263/branches/REL1_18/phase3/includes/HttpFunctions.php
+END
+ZipDirectoryReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/ZipDirectoryReader.php
+END
+WikiError.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/WikiError.php
+END
+Autopromote.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/Autopromote.php
+END
+ImagePage.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/ImagePage.php
+END
+TitleArray.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/TitleArray.php
+END
+Metadata.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/Metadata.php
+END
+Linker.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mediawiki/!svn/ver/98754/branches/REL1_18/phase3/includes/Linker.php
+END
+ViewCountUpdate.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/ViewCountUpdate.php
+END
+ExternalEdit.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/96485/branches/REL1_18/phase3/includes/ExternalEdit.php
+END
+AjaxDispatcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/104508/branches/REL1_18/phase3/includes/AjaxDispatcher.php
+END
+Block.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mediawiki/!svn/ver/96470/branches/REL1_18/phase3/includes/Block.php
+END
+RevisionList.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/97283/branches/REL1_18/phase3/includes/RevisionList.php
+END
+SiteConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/SiteConfiguration.php
+END
+ExternalStoreHttp.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/ExternalStoreHttp.php
+END
+Setup.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mediawiki/!svn/ver/100840/branches/REL1_18/phase3/includes/Setup.php
+END
+MessageBlobStore.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/MessageBlobStore.php
+END
+XmlTypeCheck.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/XmlTypeCheck.php
+END
+Preferences.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/96498/branches/REL1_18/phase3/includes/Preferences.php
+END
+UserRightsProxy.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/UserRightsProxy.php
+END
+QueryPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/99989/branches/REL1_18/phase3/includes/QueryPage.php
+END
+Init.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/Init.php
+END
+Feed.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mediawiki/!svn/ver/109621/branches/REL1_18/phase3/includes/Feed.php
+END
+PatrolLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/PatrolLog.php
+END
+ChangeTags.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/ChangeTags.php
+END
+Skin.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mediawiki/!svn/ver/112395/branches/REL1_18/phase3/includes/Skin.php
+END
+PHPVersionError.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/92502/branches/REL1_18/phase3/includes/PHPVersionError.php
+END
+UserMailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/110569/branches/REL1_18/phase3/includes/UserMailer.php
+END
+FakeTitle.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/FakeTitle.php
+END
+Import.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mediawiki/!svn/ver/101203/branches/REL1_18/phase3/includes/Import.php
+END
+ImageFunctions.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/ImageFunctions.php
+END
+UserArray.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/UserArray.php
+END
+SpecialPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/107979/branches/REL1_18/phase3/includes/SpecialPage.php
+END
+Action.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mediawiki/!svn/ver/97283/branches/REL1_18/phase3/includes/Action.php
+END
+LogPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/LogPage.php
+END
+ZhClient.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/ZhClient.php
+END
+Export.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mediawiki/!svn/ver/104125/branches/REL1_18/phase3/includes/Export.php
+END
+EditPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/100492/branches/REL1_18/phase3/includes/EditPage.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/.htaccess
+END
+SquidPurgeClient.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/SquidPurgeClient.php
+END
+ZhConversion.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/101065/branches/REL1_18/phase3/includes/ZhConversion.php
+END
+HTMLForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/102533/branches/REL1_18/phase3/includes/HTMLForm.php
+END
+GenderCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/97481/branches/REL1_18/phase3/includes/GenderCache.php
+END
+mime.info
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/mime.info
+END
+ChangesFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/ChangesFeed.php
+END
+WebResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/101106/branches/REL1_18/phase3/includes/WebResponse.php
+END
+OutputPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/108620/branches/REL1_18/phase3/includes/OutputPage.php
+END
+RequestContext.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/107979/branches/REL1_18/phase3/includes/RequestContext.php
+END
+HistoryPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/97271/branches/REL1_18/phase3/includes/HistoryPage.php
+END
+WikiCategoryPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/95607/branches/REL1_18/phase3/includes/WikiCategoryPage.php
+END
+Pager.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/Pager.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/100490/branches/REL1_18/phase3/includes/Exception.php
+END
+Cdb_PHP.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/Cdb_PHP.php
+END
+HistoryBlob.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/HistoryBlob.php
+END
+LogEventsList.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/LogEventsList.php
+END
+AjaxResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/AjaxResponse.php
+END
+ImageGallery.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/ImageGallery.php
+END
+Html.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mediawiki/!svn/ver/98584/branches/REL1_18/phase3/includes/Html.php
+END
+Sanitizer.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/97459/branches/REL1_18/phase3/includes/Sanitizer.php
+END
+IP.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mediawiki/!svn/ver/102519/branches/REL1_18/phase3/includes/IP.php
+END
+Cookie.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/Cookie.php
+END
+DjVuImage.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/DjVuImage.php
+END
+Category.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/Category.php
+END
+Hooks.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/Hooks.php
+END
+LinksUpdate.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/103029/branches/REL1_18/phase3/includes/LinksUpdate.php
+END
+WebRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/95607/branches/REL1_18/phase3/includes/WebRequest.php
+END
+StringUtils.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/StringUtils.php
+END
+Cdb.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/Cdb.php
+END

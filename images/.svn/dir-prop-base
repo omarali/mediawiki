@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 71
+archive*
+deleted*
+fuzz-tests
+math*
+temp*
+thumb*
+timeline*
+tmp*
+temp*
+?
+
+END

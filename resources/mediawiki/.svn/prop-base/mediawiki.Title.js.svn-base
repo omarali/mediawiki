@@ -1,0 +1,12 @@
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mergeinfo
+V 295
+/branches/REL1_15/phase3/resources/mediawiki/mediawiki.Title.js:51646
+/branches/REL1_17/phase3/resources/mediawiki/mediawiki.Title.js:81445,81448
+/branches/new-installer/phase3/resources/mediawiki/mediawiki.Title.js:43664-66004
+/branches/sqlite/resources/mediawiki/mediawiki.Title.js:58211-58321
+END

@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 163
+CompositionExclusions.txt
+DerivedNormalizationProps.txt
+NormalizationCorrections.txt
+NormalizationTest.txt
+testdata
+UnicodeData.txt
+UTF-8-test.txt
+*~
+._*
+.DS_Store
+END

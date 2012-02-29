@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/mediawiki/!svn/ver/98285/branches/REL1_18/phase3/includes/libs
+END
+CSSJanus.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/libs/CSSJanus.php
+END
+JavaScriptMinifier.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/libs/JavaScriptMinifier.php
+END
+CSSMin.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/94472/branches/REL1_18/phase3/includes/libs/CSSMin.php
+END
+IEUrlExtension.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/libs/IEUrlExtension.php
+END
+IEContentAnalyzer.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/libs/IEContentAnalyzer.php
+END
+HttpStatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/95607/branches/REL1_18/phase3/includes/libs/HttpStatus.php
+END
+jsminplus.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/98285/branches/REL1_18/phase3/includes/libs/jsminplus.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/libs/README
+END

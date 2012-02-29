@@ -1,0 +1,515 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/mediawiki/!svn/ver/109694/branches/REL1_18/phase3/includes/api
+END
+ApiQueryAllLinks.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryAllLinks.php
+END
+ApiQueryRecentChanges.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryRecentChanges.php
+END
+ApiQueryAllCategories.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryAllCategories.php
+END
+ApiQueryLinks.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryLinks.php
+END
+ApiComparePages.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/api/ApiComparePages.php
+END
+ApiMove.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiMove.php
+END
+ApiQueryRandom.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/api/ApiQueryRandom.php
+END
+ApiQuerySiteinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQuerySiteinfo.php
+END
+ApiWatch.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiWatch.php
+END
+ApiFileRevert.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/api/ApiFileRevert.php
+END
+ApiLogout.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiLogout.php
+END
+ApiParse.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/109694/branches/REL1_18/phase3/includes/api/ApiParse.php
+END
+ApiQueryExtLinksUsage.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryExtLinksUsage.php
+END
+ApiQueryAllpages.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryAllpages.php
+END
+ApiFormatWddx.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/api/ApiFormatWddx.php
+END
+ApiProtect.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiProtect.php
+END
+ApiPurge.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiPurge.php
+END
+ApiQueryPageProps.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryPageProps.php
+END
+ApiQueryBacklinks.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryBacklinks.php
+END
+ApiRollback.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiRollback.php
+END
+ApiQueryDeletedrevs.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryDeletedrevs.php
+END
+ApiExpandTemplates.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiExpandTemplates.php
+END
+ApiUserrights.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiUserrights.php
+END
+ApiQueryBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/103029/branches/REL1_18/phase3/includes/api/ApiQueryBase.php
+END
+ApiFormatPhp.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/api/ApiFormatPhp.php
+END
+ApiDelete.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiDelete.php
+END
+ApiQueryBlocks.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryBlocks.php
+END
+ApiQueryFilearchive.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/api/ApiQueryFilearchive.php
+END
+ApiDisabled.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/api/ApiDisabled.php
+END
+ApiImport.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiImport.php
+END
+ApiFormatYaml.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/api/ApiFormatYaml.php
+END
+ApiQueryCategoryMembers.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryCategoryMembers.php
+END
+ApiResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/api/ApiResult.php
+END
+ApiQueryCategoryInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryCategoryInfo.php
+END
+ApiEditPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiEditPage.php
+END
+ApiFormatBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiFormatBase.php
+END
+ApiQueryAllimages.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryAllimages.php
+END
+ApiQueryAllmessages.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryAllmessages.php
+END
+ApiFormatTxt.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/api/ApiFormatTxt.php
+END
+ApiQuerySearch.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQuerySearch.php
+END
+ApiQueryLogEvents.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryLogEvents.php
+END
+ApiUnblock.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiUnblock.php
+END
+ApiFormatRaw.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/api/ApiFormatRaw.php
+END
+ApiQueryWatchlistRaw.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/api/ApiQueryWatchlistRaw.php
+END
+ApiQueryProtectedTitles.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryProtectedTitles.php
+END
+ApiQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQuery.php
+END
+ApiFormatDbg.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/api/ApiFormatDbg.php
+END
+ApiQueryIWLinks.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/96475/branches/REL1_18/phase3/includes/api/ApiQueryIWLinks.php
+END
+ApiQueryLangLinks.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryLangLinks.php
+END
+ApiLogin.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiLogin.php
+END
+ApiFormatXml.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/104476/branches/REL1_18/phase3/includes/api/ApiFormatXml.php
+END
+ApiFormatDump.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/api/ApiFormatDump.php
+END
+ApiQueryUserInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryUserInfo.php
+END
+ApiFormatJson.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/api/ApiFormatJson.php
+END
+ApiQueryImageInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryImageInfo.php
+END
+ApiMain.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiMain.php
+END
+ApiFeedContributions.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/95607/branches/REL1_18/phase3/includes/api/ApiFeedContributions.php
+END
+ApiEmailUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiEmailUser.php
+END
+ApiQueryIWBacklinks.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/api/ApiQueryIWBacklinks.php
+END
+ApiOpenSearch.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiOpenSearch.php
+END
+ApiQueryStashImageInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/api/ApiQueryStashImageInfo.php
+END
+ApiHelp.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/104439/branches/REL1_18/phase3/includes/api/ApiHelp.php
+END
+ApiPageSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/api/ApiPageSet.php
+END
+ApiQueryQueryPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mediawiki/!svn/ver/99989/branches/REL1_18/phase3/includes/api/ApiQueryQueryPage.php
+END
+ApiQueryWatchlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryWatchlist.php
+END
+ApiRsd.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiRsd.php
+END
+ApiQueryLangBacklinks.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/api/ApiQueryLangBacklinks.php
+END
+ApiBlock.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiBlock.php
+END
+ApiQueryDisabled.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/api/ApiQueryDisabled.php
+END
+ApiPatrol.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiPatrol.php
+END
+ApiUndelete.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiUndelete.php
+END
+ApiQueryRevisions.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/108687/branches/REL1_18/phase3/includes/api/ApiQueryRevisions.php
+END
+ApiQueryExternalLinks.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryExternalLinks.php
+END
+ApiBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiBase.php
+END
+ApiQueryCategories.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryCategories.php
+END
+ApiParamInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiParamInfo.php
+END
+ApiQueryAllUsers.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryAllUsers.php
+END
+ApiQueryInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryInfo.php
+END
+ApiQueryDuplicateFiles.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryDuplicateFiles.php
+END
+ApiQueryTags.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/api/ApiQueryTags.php
+END
+ApiUpload.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiUpload.php
+END
+ApiFeedWatchlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiFeedWatchlist.php
+END
+ApiQueryUserContributions.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryUserContributions.php
+END
+ApiQueryUsers.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryUsers.php
+END
+ApiQueryImages.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/104449/branches/REL1_18/phase3/includes/api/ApiQueryImages.php
+END

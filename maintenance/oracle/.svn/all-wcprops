@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mediawiki/!svn/ver/106807/branches/REL1_18/phase3/maintenance/oracle
+END
+patch_seq_names_pre1.16.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/oracle/patch_seq_names_pre1.16.sql
+END
+tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/106807/branches/REL1_18/phase3/maintenance/oracle/tables.sql
+END
+alterSharedConstraints.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/oracle/alterSharedConstraints.php
+END
+user.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/oracle/user.sql
+END

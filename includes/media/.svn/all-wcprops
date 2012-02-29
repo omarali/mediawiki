@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/mediawiki/!svn/ver/107310/branches/REL1_18/phase3/includes/media
+END
+FormatMetadata.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/media/FormatMetadata.php
+END
+Exif.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/96088/branches/REL1_18/phase3/includes/media/Exif.php
+END
+MediaTransformOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/media/MediaTransformOutput.php
+END
+SVGMetadataExtractor.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/95632/branches/REL1_18/phase3/includes/media/SVGMetadataExtractor.php
+END
+IPTC.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/media/IPTC.php
+END
+SVG.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/93747/branches/REL1_18/phase3/includes/media/SVG.php
+END
+GIFMetadataExtractor.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/100750/branches/REL1_18/phase3/includes/media/GIFMetadataExtractor.php
+END
+XMP.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/media/XMP.php
+END
+GIF.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/107308/branches/REL1_18/phase3/includes/media/GIF.php
+END
+DjVu.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/media/DjVu.php
+END
+BitmapMetadataHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/96088/branches/REL1_18/phase3/includes/media/BitmapMetadataHandler.php
+END
+Generic.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/107308/branches/REL1_18/phase3/includes/media/Generic.php
+END
+Bitmap_ClientOnly.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/media/Bitmap_ClientOnly.php
+END
+Bitmap.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/107310/branches/REL1_18/phase3/includes/media/Bitmap.php
+END
+BMP.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/100750/branches/REL1_18/phase3/includes/media/BMP.php
+END
+XMPValidate.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/media/XMPValidate.php
+END
+XMPInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/100840/branches/REL1_18/phase3/includes/media/XMPInfo.php
+END
+PNGMetadataExtractor.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/100750/branches/REL1_18/phase3/includes/media/PNGMetadataExtractor.php
+END
+JpegMetadataExtractor.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mediawiki/!svn/ver/102525/branches/REL1_18/phase3/includes/media/JpegMetadataExtractor.php
+END
+PNG.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/media/PNG.php
+END
+Jpeg.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/media/Jpeg.php
+END
+ExifBitmap.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/103029/branches/REL1_18/phase3/includes/media/ExifBitmap.php
+END
+Tiff.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mediawiki/!svn/ver/99989/branches/REL1_18/phase3/includes/media/Tiff.php
+END

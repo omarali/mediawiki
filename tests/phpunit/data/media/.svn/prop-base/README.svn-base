@@ -1,0 +1,13 @@
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mergeinfo
+V 348
+/branches/REL1_15/phase3/tests/phpunit/includes/media/README:51646
+/branches/REL1_17/phase3/tests/phpunit/includes/media/README:81445,81448
+/branches/new-installer/phase3/tests/phpunit/includes/media/README:43664-66004
+/branches/sqlite/tests/phpunit/includes/media/README:58211-58321
+/trunk/phase3/tests/phpunit/data/media/README:94867,95163,100576
+END

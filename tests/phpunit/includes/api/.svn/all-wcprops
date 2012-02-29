@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/95607/branches/REL1_18/phase3/tests/phpunit/includes/api
+END
+ApiTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/api/ApiTest.php
+END
+ApiTestCaseUpload.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/api/ApiTestCaseUpload.php
+END
+RandomImageGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/mediawiki/!svn/ver/95607/branches/REL1_18/phase3/tests/phpunit/includes/api/RandomImageGenerator.php
+END
+ApiPurgeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/api/ApiPurgeTest.php
+END
+ApiUploadTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mediawiki/!svn/ver/95607/branches/REL1_18/phase3/tests/phpunit/includes/api/ApiUploadTest.php
+END
+ApiQueryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/api/ApiQueryTest.php
+END
+ApiWatchTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/api/ApiWatchTest.php
+END
+generateRandomImages.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/mediawiki/!svn/ver/95607/branches/REL1_18/phase3/tests/phpunit/includes/api/generateRandomImages.php
+END
+ApiBlockTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/api/ApiBlockTest.php
+END
+ApiTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/api/ApiTestCase.php
+END
+words.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/api/words.txt
+END
+ApiTestUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/phpunit/includes/api/ApiTestUser.php
+END

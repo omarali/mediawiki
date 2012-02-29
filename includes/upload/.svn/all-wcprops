@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mediawiki/!svn/ver/102514/branches/REL1_18/phase3/includes/upload
+END
+UploadFromStash.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/upload/UploadFromStash.php
+END
+UploadFromUrl.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mediawiki/!svn/ver/98754/branches/REL1_18/phase3/includes/upload/UploadFromUrl.php
+END
+UploadBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/95607/branches/REL1_18/phase3/includes/upload/UploadBase.php
+END
+UploadStash.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/102514/branches/REL1_18/phase3/includes/upload/UploadStash.php
+END
+UploadFromFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mediawiki/!svn/ver/95607/branches/REL1_18/phase3/includes/upload/UploadFromFile.php
+END

@@ -1,0 +1,12 @@
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mergeinfo
+V 568
+/branches/REL1_15/phase3/includes/specials/SpecialUploadStash.php:51646
+/branches/sqlite/includes/specials/SpecialUploadStash.php:58211-58321
+/branches/wmf-deployment/includes/specials/SpecialUploadStash.php:53381,56967
+/trunk/phase3/includes/specials/SpecialUploadStash.php:73549-75058,75060-75587,75589-75821,92580,92713,92765,92884,92886-92887,92894,92898,92907,92932,93149,93151,93233-93234,93258,93266,93516-93518,93687,93818-93822,93847,93858,93891,93935-93936,94068,94155,94235,94346,94372,94422,94425,94444,94448,94456,94498,94601,94728,94825,94862,94995-94997
+END

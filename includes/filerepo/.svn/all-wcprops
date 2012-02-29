@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mediawiki/!svn/ver/107308/branches/REL1_18/phase3/includes/filerepo
+END
+OldLocalFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/102525/branches/REL1_18/phase3/includes/filerepo/OldLocalFile.php
+END
+LocalFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/102525/branches/REL1_18/phase3/includes/filerepo/LocalFile.php
+END
+FSRepo.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/filerepo/FSRepo.php
+END
+ForeignDBFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/filerepo/ForeignDBFile.php
+END
+NullRepo.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/filerepo/NullRepo.php
+END
+ForeignDBViaLBRepo.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/filerepo/ForeignDBViaLBRepo.php
+END
+FileRepo.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/102525/branches/REL1_18/phase3/includes/filerepo/FileRepo.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/filerepo/README
+END
+ForeignAPIRepo.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/94472/branches/REL1_18/phase3/includes/filerepo/ForeignAPIRepo.php
+END
+FileRepoStatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/filerepo/FileRepoStatus.php
+END
+UnregisteredLocalFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/filerepo/UnregisteredLocalFile.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/107308/branches/REL1_18/phase3/includes/filerepo/File.php
+END
+LocalRepo.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/filerepo/LocalRepo.php
+END
+RepoGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/filerepo/RepoGroup.php
+END
+ForeignAPIFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/filerepo/ForeignAPIFile.php
+END
+ForeignDBRepo.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/filerepo/ForeignDBRepo.php
+END
+ArchivedFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/includes/filerepo/ArchivedFile.php
+END

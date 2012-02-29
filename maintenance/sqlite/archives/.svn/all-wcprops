@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/sqlite/archives
+END
+searchindex-no-fts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/sqlite/archives/searchindex-no-fts.sql
+END
+patch-tc-timestamp.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/sqlite/archives/patch-tc-timestamp.sql
+END
+initial-indexes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/sqlite/archives/initial-indexes.sql
+END
+patch-iw_api_and_wikiid.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/sqlite/archives/patch-iw_api_and_wikiid.sql
+END
+patch-rd_interwiki.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/sqlite/archives/patch-rd_interwiki.sql
+END
+patch-kill-iwl_pft.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/sqlite/archives/patch-kill-iwl_pft.sql
+END
+patch-rename-iwl_prefix.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/sqlite/archives/patch-rename-iwl_prefix.sql
+END
+searchindex-fts3.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/sqlite/archives/searchindex-fts3.sql
+END
+patch-log_search-rename-index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/sqlite/archives/patch-log_search-rename-index.sql
+END
+patch-kill-iwl_prefix.sql
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/sqlite/archives/patch-kill-iwl_prefix.sql
+END
+patch-archive_kill_ar_page_revid.sql
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/sqlite/archives/patch-archive_kill_ar_page_revid.sql
+END
+patch-categorylinks-better-collation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/sqlite/archives/patch-categorylinks-better-collation.sql
+END
+patch-log_user_text.sql
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/sqlite/archives/patch-log_user_text.sql
+END

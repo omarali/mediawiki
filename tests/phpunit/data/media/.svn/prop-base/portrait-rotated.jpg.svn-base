@@ -1,0 +1,12 @@
+K 13
+svn:mergeinfo
+V 339
+/branches/REL1_15/phase3/tests/phpunit/includes/media/portrait-rotated.jpg:51646
+/branches/REL1_17/phase3/tests/phpunit/includes/media/portrait-rotated.jpg:81445,81448
+/branches/new-installer/phase3/tests/phpunit/includes/media/portrait-rotated.jpg:43664-66004
+/branches/sqlite/tests/phpunit/includes/media/portrait-rotated.jpg:58211-58321
+K 13
+svn:mime-type
+V 10
+image/jpeg
+END

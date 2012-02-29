@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mediawiki/!svn/ver/107913/branches/REL1_18/phase3/resources/jquery
+END
+jquery.suggestions.css
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.suggestions.css
+END
+jquery.makeCollapsible.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.makeCollapsible.js
+END
+jquery.textSelection.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mediawiki/!svn/ver/103160/branches/REL1_18/phase3/resources/jquery/jquery.textSelection.js
+END
+jquery.qunit.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.qunit.js
+END
+jquery.qunit.completenessTest.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.qunit.completenessTest.js
+END
+jquery.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mediawiki/!svn/ver/99262/branches/REL1_18/phase3/resources/jquery/jquery.js
+END
+jquery.localize.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/104182/branches/REL1_18/phase3/resources/jquery/jquery.localize.js
+END
+jquery.byteLimit.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.byteLimit.js
+END
+jquery.tablesorter.css
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/103156/branches/REL1_18/phase3/resources/jquery/jquery.tablesorter.css
+END
+jquery.makeCollapsible.css
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.makeCollapsible.css
+END
+jquery.collapsibleTabs.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mediawiki/!svn/ver/107913/branches/REL1_18/phase3/resources/jquery/jquery.collapsibleTabs.js
+END
+jquery.delayedBind.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/107913/branches/REL1_18/phase3/resources/jquery/jquery.delayedBind.js
+END
+jquery.byteLength.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.byteLength.js
+END
+jquery.expandableField.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.expandableField.js
+END
+jquery.appear.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.appear.js
+END
+jquery.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.json.js
+END
+jquery.cookie.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.cookie.js
+END
+jquery.suggestions.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.suggestions.js
+END
+jquery.colorUtil.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.colorUtil.js
+END
+jquery.autoEllipsis.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.autoEllipsis.js
+END
+jquery.client.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.client.js
+END
+jquery.placeholder.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.placeholder.js
+END
+jquery.tablesorter.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/103029/branches/REL1_18/phase3/resources/jquery/jquery.tablesorter.js
+END
+jquery.checkboxShiftClick.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.checkboxShiftClick.js
+END
+jquery.mwPrototypes.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.mwPrototypes.js
+END
+jquery.messageBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.messageBox.js
+END
+jquery.getAttrs.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.getAttrs.js
+END
+jquery.tabIndex.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.tabIndex.js
+END
+jquery.form.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.form.js
+END
+jquery.hoverIntent.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.hoverIntent.js
+END
+jquery.messageBox.css
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.messageBox.css
+END
+jquery.qunit.css
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.qunit.css
+END
+jquery.highlightText.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/96622/branches/REL1_18/phase3/resources/jquery/jquery.highlightText.js
+END
+jquery.async.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.async.js
+END
+jquery.color.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/resources/jquery/jquery.color.js
+END

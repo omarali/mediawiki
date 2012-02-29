@@ -1,0 +1,20 @@
+K 13
+svn:eol-style
+V 6
+native
+K 12
+svn:keywords
+V 23
+Author Date Id Revision
+K 13
+svn:mergeinfo
+V 880
+/branches/REL1_15/phase3/includes/db/Database.php:51646
+/branches/new-installer/phase3/includes/db/Database.php:43664-66004
+/branches/querypage-work2/phase3/includes/db/Database.php:65475
+/branches/sqlite/includes/db/Database.php:58211-58321
+/branches/wmf/1.16wmf4/includes/db/Database.php:67177
+/branches/wmf-deployment/includes/db/Database.php:53381
+/trunk/includes/db/Database.php:96950
+/trunk/phase3/includes/db/Database.php:92551-92552,92560,92563-92564,92568,92570,92573-92574,92576,92580-92581,92713,92765,92884,92886-92887,92894,92898,92907,92932,93103,93149,93151,93233-93234,93258,93266,93516-93518,93818-93822,93847,93858,93891,93935-93936,94068,94155,94235,94346,94372,94422,94425,94444,94448,94456,94498,94601,94728,94825,94862,94995-94997,95562,95570,95597,95608,95647-95648,95674,95790,95999,96087,96930,96950,98703,98755,98880,99897,99910,99914,99952,103450,105372
+END

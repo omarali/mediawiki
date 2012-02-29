@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/106807/branches/REL1_18/phase3/maintenance/oracle/archives
+END
+patch-testrun.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/oracle/archives/patch-testrun.sql
+END
+patch_create_17_functions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/oracle/archives/patch_create_17_functions.sql
+END
+patch-config.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/oracle/archives/patch-config.sql
+END
+patch_namespace_defaults.sql
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/oracle/archives/patch_namespace_defaults.sql
+END
+patch-uploadstash.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/mediawiki/!svn/ver/96091/branches/REL1_18/phase3/maintenance/oracle/archives/patch-uploadstash.sql
+END
+patch-user_former_groups.sql
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/mediawiki/!svn/ver/96091/branches/REL1_18/phase3/maintenance/oracle/archives/patch-user_former_groups.sql
+END
+patch_16_17_schema_changes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/oracle/archives/patch_16_17_schema_changes.sql
+END
+patch-up_property.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/oracle/archives/patch-up_property.sql
+END
+patch_remove_not_null_empty_defs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/oracle/archives/patch_remove_not_null_empty_defs.sql
+END
+patch_fk_rename_deferred.sql
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/oracle/archives/patch_fk_rename_deferred.sql
+END
+patch-user_email_index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/mediawiki/!svn/ver/96091/branches/REL1_18/phase3/maintenance/oracle/archives/patch-user_email_index.sql
+END
+patch_rebuild_dupfunc.sql
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/oracle/archives/patch_rebuild_dupfunc.sql
+END
+patch_recentchanges_fk2_cascade.sql
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/mediawiki/!svn/ver/106807/branches/REL1_18/phase3/maintenance/oracle/archives/patch_recentchanges_fk2_cascade.sql
+END

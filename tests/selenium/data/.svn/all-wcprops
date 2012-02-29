@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/data
+END
+SimpleSeleniumTestDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/data/SimpleSeleniumTestDB.sql
+END
+SimpleSeleniumTestImages.zip
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/data/SimpleSeleniumTestImages.zip
+END
+Wikipedia-logo-v2-de.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/data/Wikipedia-logo-v2-de.png
+END
+mediawiki118_fresh_installation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/tests/selenium/data/mediawiki118_fresh_installation.sql
+END

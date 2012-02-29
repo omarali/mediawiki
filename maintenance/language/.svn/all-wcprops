@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mediawiki/!svn/ver/98762/branches/REL1_18/phase3/maintenance/language
+END
+generateCollationData.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/mediawiki/!svn/ver/97274/branches/REL1_18/phase3/maintenance/language/generateCollationData.php
+END
+messages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mediawiki/!svn/ver/98762/branches/REL1_18/phase3/maintenance/language/messages.inc
+END
+validate.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/language/validate.php
+END
+rebuildLanguage.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/language/rebuildLanguage.php
+END
+messageTypes.inc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/98762/branches/REL1_18/phase3/maintenance/language/messageTypes.inc
+END
+dumpMessages.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/language/dumpMessages.php
+END
+checkExtensions.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/language/checkExtensions.php
+END
+function-list.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/language/function-list.php
+END
+lang2po.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/language/lang2po.php
+END
+checkLanguage.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/language/checkLanguage.inc
+END
+writeMessagesArray.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/language/writeMessagesArray.inc
+END
+langmemusage.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/language/langmemusage.php
+END
+digit2html.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/language/digit2html.php
+END
+StatOutputs.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/language/StatOutputs.php
+END
+countMessages.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/language/countMessages.php
+END
+alltrans.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/language/alltrans.php
+END
+checkLanguage.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/language/checkLanguage.php
+END
+checkDupeMessages.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/language/checkDupeMessages.php
+END
+transstat.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/language/transstat.php
+END
+date-formats.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/language/date-formats.php
+END
+generateNormalizerData.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/language/generateNormalizerData.php
+END
+languages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mediawiki/!svn/ver/92475/branches/REL1_18/phase3/maintenance/language/languages.inc
+END
