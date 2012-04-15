@@ -63,7 +63,7 @@ if ( ini_get( 'register_globals' ) ) {
 header( 'X-Content-Type-Options: nosniff' );
 
 # Turn on CSP
-header( 'X-Content-Security-Policy: default-src \'self\'' );
+header( 'X-Content-Security-Policy: default-src \'self\'; img-src \'self\' data:' );
 
 $wgRequestTime = microtime(true);
 # getrusage() does not exist on the Microsoft Windows platforms, catching this
