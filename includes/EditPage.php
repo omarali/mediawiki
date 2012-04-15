@@ -2497,7 +2497,7 @@ HTML
 			)
 		);
 
-		$script = '';
+		$script = array();
 		foreach ( $toolarray as $tool ) {
 			if ( !$tool ) {
 				continue;
@@ -2520,11 +2520,17 @@ HTML
 				$cssId = $tool['id'],
 			);
 
-			$script .= Xml::encodeJsCall( 'mw.toolbar.addButton', $params );
+			//$script .= Xml::encodeJsCall( 'mw.toolbar.addButton', $params );
+                        $script[] = $params;
 		}
-		$wgOut->addScript( Html::inlineScript( ResourceLoader::makeLoaderConditionalScript( $script ) ) );
+                // CSP: this line was replaced with a CSP friendly version 
+		//$wgOut->addScript( Html::inlineScript( ResourceLoader::makeLoaderConditionalScript( $script ) ) );
 
-		$toolbar = '<div id="toolbar"></div>';
+                // CSP: link to script that sets loads bottons from HTML data attributes
+                $wgOut->addScript( Html::linkedScript('resources/csp/mw.toolbar.addButton.js'));
+
+                // CSP: embed buttons that need to be loaded via HTML data attributes
+		$toolbar = '<div id="toolbar" data-toolbar="' . htmlspecialchars( json_encode($script) ) . '"></div>';
 
 		wfRunHooks( 'EditPageBeforeEditToolbar', array( &$toolbar ) );
 

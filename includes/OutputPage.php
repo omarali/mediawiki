@@ -2516,28 +2516,43 @@ $templates
 		// Startup - this will immediately load jquery and mediawiki modules
 		$scripts = $this->makeResourceLoaderLink( $sk, 'startup', ResourceLoaderModule::TYPE_SCRIPTS, true );
 
+                // CSP: this block was replaced with a CSP friendly version
 		// Load config before anything else
-		$scripts .= Html::inlineScript(
-			ResourceLoader::makeLoaderConditionalScript(
-				ResourceLoader::makeConfigSetScript( $this->getJSVars() )
-			)
-		);
+		//$scripts .= Html::inlineScript(
+		//	ResourceLoader::makeLoaderConditionalScript(
+		//		ResourceLoader::makeConfigSetScript( $this->getJSVars() )
+		//	)
+		//);
+
+                // CSP: embed config data in page via HTML data attributes
+                $scripts .= '<meta id="mw.config.set" data-config="' . htmlspecialchars( json_encode( $this->getJSVars())) . '" />';
+
+                // CSP: link to script that sets config from HTML data attributes
+                $scripts .= Html::linkedScript('resources/csp/mw.config.set.js'); 
 
 		// Script and Messages "only" requests marked for top inclusion
 		// Messages should go first
 		$scripts .= $this->makeResourceLoaderLink( $sk, $this->getModuleMessages( true, 'top' ), ResourceLoaderModule::TYPE_MESSAGES );
 		$scripts .= $this->makeResourceLoaderLink( $sk, $this->getModuleScripts( true, 'top' ), ResourceLoaderModule::TYPE_SCRIPTS );
 
+                // CSP: this block was replaced with a CSP friendly version
 		// Modules requests - let the client calculate dependencies and batch requests as it likes
 		// Only load modules that have marked themselves for loading at the top
 		$modules = $this->getModules( true, 'top' );
-		if ( $modules ) {
-			$scripts .= Html::inlineScript(
-				ResourceLoader::makeLoaderConditionalScript(
-					Xml::encodeJsCall( 'mw.loader.load', array( $modules ) )
-				)
-			);
-		}
+		//if ( $modules ) {
+		//	$scripts .= Html::inlineScript(
+		//		ResourceLoader::makeLoaderConditionalScript(
+		//			Xml::encodeJsCall( 'mw.loader.load', array( $modules ) )
+		//		)
+		///	);
+		//}
+
+                // CSP: embed modules name that need to be loaded in the top in page via HTML data attributes
+                $scripts .= '<meta id="mw.loader.load.top" data-modules="' . htmlspecialchars( json_encode( $modules )) . '" />';
+
+                // CSP: link to script that sets loads top modules from HTML data attributes
+                $scripts .= Html::linkedScript('resources/csp/mw.loader.load.top.js');
+
 
 		return $scripts;
 	}
@@ -2558,16 +2573,23 @@ $templates
 		$scripts = $this->makeResourceLoaderLink( $sk, $this->getModuleMessages( true, 'bottom' ), ResourceLoaderModule::TYPE_MESSAGES );
 		$scripts .= $this->makeResourceLoaderLink( $sk, $this->getModuleScripts( true, 'bottom' ), ResourceLoaderModule::TYPE_SCRIPTS );
 
-		// Modules requests - let the client calculate dependencies and batch requests as it likes
+		// CSP: this block was replaced with a CSP friendly version
+                // Modules requests - let the client calculate dependencies and batch requests as it likes
 		// Only load modules that have marked themselves for loading at the bottom
 		$modules = $this->getModules( true, 'bottom' );
-		if ( $modules ) {
-			$scripts .= Html::inlineScript(
-				ResourceLoader::makeLoaderConditionalScript(
-					Xml::encodeJsCall( 'mw.loader.load', array( $modules ) )
-				)
-			);
-		}
+		//if ( $modules ) {
+		//	$scripts .= Html::inlineScript(
+		//		ResourceLoader::makeLoaderConditionalScript(
+		//			Xml::encodeJsCall( 'mw.loader.load', array( $modules ) )
+		//		)
+		//	);
+		//}
+
+                // CSP: embed modules name that need to be loaded in the bottom in page via HTML data attributes
+                $scripts .= '<meta id="mw.loader.load.bottom" data-modules="' . htmlspecialchars( json_encode( $modules )) . '" />';
+
+                // CSP: link to script that sets loads bottom modules from HTML data attributes
+                $scripts .= Html::linkedScript('resources/csp/mw.loader.load.bottom.js');
 
 		// Legacy Scripts
 		$scripts .= "\n" . $this->mScripts;
@@ -2594,7 +2616,18 @@ $templates
 				$userScripts[] = 'user';
 			}
 		}
-		$scripts .= $this->makeResourceLoaderLink( $sk, $userScripts, ResourceLoaderModule::TYPE_SCRIPTS );
+                //CSP: this line was replaced with a CSP compliant version
+		//$scripts .= $this->makeResourceLoaderLink( $sk, $userScripts, ResourceLoaderModule::TYPE_SCRIPTS );
+
+                global $wgUser;
+                // CSP: embed user options that need to be loaded in the bottom in page via HTML data attributes
+                $scripts .= '<div style="display: none;" id="mw.user.options.set" data-options="' . htmlspecialchars( json_encode( $wgUser->getOptions() )) . '"></div>';
+
+                // CSP: embed user tokens that need to be loaded in the bottom in page via HTML data attributes
+                $scripts .= '<div style="display: none;" id="mw.user.tokens.set" data-enabled="0" data-tokens="' . htmlspecialchars( json_encode( '' )) . '"></div>';
+
+                // CSP: link to script that sets loads bottom modules from HTML data attributes
+                $scripts .= Html::linkedScript('resources/csp/mw.user.js');
 
 		return $scripts;
 	}
